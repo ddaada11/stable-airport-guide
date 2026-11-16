@@ -1,0 +1,9 @@
+{
+  "name": "stable-airport-guide",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "daily": "node scripts/daily-check.mjs"
+  }
+}
