@@ -1,7 +1,38 @@
 [
-  { "name": "速界", "hosts": ["avbiu.azjstq.xyz"] },
-  { "name": "可信云", "hosts": ["sygzfd.kexintztz2.xyz"] },
-  { "name": "一翻云", "hosts": ["plmxs.fjumpy.mom"] },
-  { "name": "宝可梦加速器", "hosts": ["love3.p6m6.com"] },
-  { "name": "二猫云", "hosts": ["safvsf.erercatbiu.ink"] }
+  {
+    "name": "速界",
+    "hosts": [
+      "avbiu.azjstq.xyz"
+    ]
+  },
+  {
+    "name": "可信云",
+    "hosts": [
+      "sygzfd.kexintztz2.xyz"
+    ]
+  },
+  {
+    "name": "一翻云",
+    "hosts": [
+      "wp01.yifanaff.com",
+      "wzjc.1flyunaff.cc",
+      "es383z9y.fjumpy.mom",
+      "plmxs.fjumpy.mom"
+    ],
+    "note": "入口域名每日轮换，检测顺序：稳定检测页 → 备用检测页 → 动态落点 → 原注册域名"
+  },
+  {
+    "name": "宝可梦加速器",
+    "hosts": [
+      "web4.52pokemon.cc",
+      "love3.p6m6.com"
+    ],
+    "note": "主站 love3.p6m6.com 经常被墙，备用域名 web4.52pokemon.cc 稳定；注册入口用备用域名"
+  },
+  {
+    "name": "二猫云",
+    "hosts": [
+      "safvsf.erercatbiu.ink"
+    ]
+  }
 ]

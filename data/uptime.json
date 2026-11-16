@@ -1,38 +1,38 @@
 {
-  "updated": "2026-11-16T12:13:18.177Z",
+  "updated": "2026-11-16T12:56:29.809Z",
   "days": {
     "2026-11-16": {
       "速界": {
         "ok": true,
-        "ms": 1016,
+        "ms": 1277,
         "code": 200,
         "note": "",
         "host": "avbiu.azjstq.xyz"
       },
       "可信云": {
         "ok": true,
-        "ms": 1023,
+        "ms": 1074,
         "code": 200,
         "note": "",
         "host": "sygzfd.kexintztz2.xyz"
       },
       "一翻云": {
-        "ok": false,
-        "ms": 368,
-        "code": 0,
-        "note": "fetch failed",
-        "host": "plmxs.fjumpy.mom"
+        "ok": true,
+        "ms": 1481,
+        "code": 200,
+        "note": "",
+        "host": "wp01.yifanaff.com"
       },
       "宝可梦加速器": {
         "ok": true,
-        "ms": 4974,
+        "ms": 1633,
         "code": 200,
         "note": "",
-        "host": "love3.p6m6.com"
+        "host": "web4.52pokemon.cc"
       },
       "二猫云": {
         "ok": true,
-        "ms": 1144,
+        "ms": 1527,
         "code": 200,
         "note": "",
         "host": "safvsf.erercatbiu.ink"
