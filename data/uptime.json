@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:56:29.809Z",
+  "updated": "2026-11-17T04:41:08.726Z",
   "days": {
     "2026-11-16": {
       "速界": {
@@ -33,6 +33,43 @@
       "二猫云": {
         "ok": true,
         "ms": 1527,
+        "code": 200,
+        "note": "",
+        "host": "safvsf.erercatbiu.ink"
+      }
+    },
+    "2026-11-17": {
+      "速界": {
+        "ok": true,
+        "ms": 460,
+        "code": 200,
+        "note": "",
+        "host": "avbiu.azjstq.xyz"
+      },
+      "可信云": {
+        "ok": true,
+        "ms": 545,
+        "code": 200,
+        "note": "",
+        "host": "sygzfd.kexintztz2.xyz"
+      },
+      "一翻云": {
+        "ok": true,
+        "ms": 532,
+        "code": 200,
+        "note": "",
+        "host": "wp01.yifanaff.com"
+      },
+      "宝可梦加速器": {
+        "ok": true,
+        "ms": 301,
+        "code": 200,
+        "note": "",
+        "host": "web4.52pokemon.cc"
+      },
+      "二猫云": {
+        "ok": true,
+        "ms": 408,
         "code": 200,
         "note": "",
         "host": "safvsf.erercatbiu.ink"
